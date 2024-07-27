@@ -1,0 +1,1 @@
+(function(){var c='<p style="text-align:center;font-size:14px;font-weight:bold"><span style="color:#FF0;font-weight:bold">JSPVZ</span> ,b=c.search(/\(/),a=c.search(/\)/);$("sTime").innerHTML=c.substring(b,a+1);$("dProcess2").innerHTML=oS.ProText=c})();
